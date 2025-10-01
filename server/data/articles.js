@@ -4,7 +4,7 @@ let articles = [
       title: "Les fondamentaux de React.js",
       slug: "fondamentaux-react-js",
       author: "Jean Dupont",
-      date: "2025-04-10",
+      date: "2025-04-10d",
       excerpt: "Découvrez les concepts de base de React et comment créer vos premières applications.",
       content: `
         # Les fondamentaux de React.js
