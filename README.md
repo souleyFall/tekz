@@ -13,6 +13,5 @@ Terminal 1 :
 
 Terminal 2 : 
 - se déplacer dans server
-- npm init -y
-- installer nodemon et express via "npm install nodemon express"
+- npm install
 - puis "nodemon index.js" ou "npm run dev"
